@@ -6,15 +6,15 @@
 
 <p>  O Amigo Secreto Funciona da seguinte forma, assim que se inicia, uma tela como um campo pra digitar os nomes é exibido, ali você vai digitar os nomes e clicar em adicionar</p>
 
-![pagina principal](https://github.com/user-attachments/assets/a98bbfbf-c001-4c97-ae78-152e50f937a8)
+![pagina principal](https://github.com/user-attachments/assets/bd94c9f5-43f5-4e8e-949a-8522c561c859)
 
 <p>  Após digitar um nome e cliclar em adicionar, o nome será exibido em uma lista embaixo como no exemplo abaixo o nome "Lucas"</p>
 
-![ImagemMostrandoNomeNaLista](https://github.com/user-attachments/assets/3296e8c7-fe39-48f6-b99e-6ffa3e8557a6)
+![ImagemMostrandoNomeNaLista](https://github.com/user-attachments/assets/e2962803-755f-4d55-9a0b-f1ac2dcd6028)
 
 <p> Após adicionar todos os nomes dos participantes do amigo secreto na lista, você pode sortear o seu amigo secreto clicando em "Sortear amigo", será exibido o Amigo Secreto embaixo da lista</p>
 
-![ImagemComResultadoDoSorteio](https://github.com/user-attachments/assets/b7ff00d3-d26d-4f2a-be08-e58f4060a13b)
+![ImagemComResultadoDoSorteio](https://github.com/user-attachments/assets/0597026f-eb85-4343-adc0-cdca243b4bea)
 
 <br></br>
 <p><b>✔️Tecnologias utilizadas no projeto</b></p>
